@@ -28,19 +28,25 @@ I'm a final-year Computer Science and Engineering student at Dr. B. C. Roy Engin
 
 ---
 
+
 ## 🚀 Projects
 
-### 1. JanMitra
-A digital platform for citizen complaint management.
+### 1. [JanMitra – Civic Complaint Management System](https://github.com/subhajit-ghosh-dev/JanMitra)
 
-### 2. Sudh Vayu
-An air pollution monitoring application using data analysis and machine learning.
+A digital platform designed to simplify citizen complaint reporting and management.
 
-### 3. Prajvaya
-A project from my software development journey.
+### 2. [Sudh Vayu – Air Pollution Monitoring](https://github.com/subhajit-ghosh-dev/Sudh_Vayu)
 
-### 4. Smart Air Quality Monitoring
-An IoT-based system for monitoring environmental conditions and air quality.
+An application focused on air pollution monitoring and environmental awareness.
+
+### 3. [Prajvaya](https://github.com/subhajit-ghosh-dev/Prajvaya)
+
+A software development project showcasing practical application development.
+
+### 4. [Smart Air Quality Monitoring](https://github.com/subhajit-ghosh-dev/smart-air-quality-monitoring)
+
+An IoT-based project focused on monitoring air quality and environmental parameters.
+
 
 ---
 
