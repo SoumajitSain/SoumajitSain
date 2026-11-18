@@ -39,11 +39,7 @@ A digital platform designed to simplify citizen complaint reporting and manageme
 
 An application focused on air pollution monitoring and environmental awareness.
 
-### 3. [Prajvaya](https://github.com/subhajit-ghosh-dev/Prajvaya)
-
-A software development project showcasing practical application development.
-
-### 4. [Smart Air Quality Monitoring](https://github.com/subhajit-ghosh-dev/smart-air-quality-monitoring)
+### 3. [Smart Air Quality Monitoring](https://github.com/subhajit-ghosh-dev/smart-air-quality-monitoring)
 
 An IoT-based project focused on monitoring air quality and environmental parameters.
 
